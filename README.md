@@ -1,7 +1,7 @@
-# robofriends
-Tutorial for udemy course - React
-To run the project:
+# robosearch
+Tutorial react app livecoder
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+run npm install 
+then run npm start 
+
+for testing run npm test in dev mode
